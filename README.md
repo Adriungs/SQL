@@ -17,12 +17,11 @@ Mi aprendizaje se estructura en tres etapas progresivas por cada módulo:
 
 ## 📅 Bitácora de Progreso y Fechas
 
-| Fecha arranque | Hito / Módulo | Estado | fecha finalización |
-| :--- | :--- | :--- |
-| 09/04/2026 | 🏗️ Inicialización del repositorio y estructura base | ✅ Completado | 09/04/2026 |
-| 09/04/2026 | 🟢 Módulo 01: SQL Básico (Fundamentos y Filtrado) | 🔄 En curso |
-| [Fecha] | 🏭 Caso Industrial: Nivel Básico | ⏳ Pendiente |
-| [Fecha] | 🟡 Módulo 02: SQL Intermedio (Joins y Agregaciones) | ⏳ Pendiente |
+| Fecha arranque |        Hito / Módulo | Estado | fecha finalización |
+| 09/04/2026 |          🏗️ Inicialización del repositorio y estructura base | ✅ Completado | 09/04/2026 |
+| 09/04/2026 |           🟢 Módulo 01: SQL Básico (Fundamentos y Filtrado) | 🔄 En curso |
+| [Fecha] |              🏭 Caso Industrial: Nivel Básico | ⏳ Pendiente |
+| [Fecha] |             🟡 Módulo 02: SQL Intermedio (Joins y Agregaciones) | ⏳ Pendiente |
 
 ---
 
